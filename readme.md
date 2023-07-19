@@ -42,4 +42,4 @@ Before getting started, make sure you have the following prerequisites installed
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/amaan14999/celebal-weather-app/blob/main/LICENSE) file for details.
