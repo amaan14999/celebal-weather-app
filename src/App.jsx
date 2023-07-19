@@ -19,7 +19,7 @@ function App() {
     <div className="w-full h-screen text-white px-8">
       <nav className="w-full p-3 flex justify-between items-center">
         <div className="flex items-center">
-          <img src="{celebal}" alt="" className="w-[2.5rem] mr-3" />
+          <img src={celebal} alt="" className="w-[2.5rem] mr-3" />
           <h1 className="font-bold tracking-wide text-3xl">
             Celebal Weather App
           </h1>
