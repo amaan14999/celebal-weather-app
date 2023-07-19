@@ -19,7 +19,7 @@ function App() {
       <nav className="w-full p-3 flex justify-between items-center">
         <div className="flex items-center">
           <img
-            src="src\assets\images\celebal.png"
+            src="src/assets/images/celebal.png"
             alt=""
             className="w-[2.5rem] mr-3"
           />
