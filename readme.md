@@ -1,4 +1,4 @@
-## React Weather Application
+# React Weather Application
 
 This is a React weather application created for my internship at Celebal Technologies. It shows the current weather, temperature, date, time, and heat index. It also provides a forecast for the next four days.
 
