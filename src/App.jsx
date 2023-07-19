@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import search from "./assets/icons/search.svg";
+import celebal from "./assets/images/celebal.png";
 import { useStateContext } from "./Context";
 import { BackgroundLayout, WeatherCard, MiniCard } from "./Components";
 
@@ -18,11 +19,7 @@ function App() {
     <div className="w-full h-screen text-white px-8">
       <nav className="w-full p-3 flex justify-between items-center">
         <div className="flex items-center">
-          <img
-            src="src/assets/images/celebal.png"
-            alt=""
-            className="w-[2.5rem] mr-3"
-          />
+          <img src="{celebal}" alt="" className="w-[2.5rem] mr-3" />
           <h1 className="font-bold tracking-wide text-3xl">
             Celebal Weather App
           </h1>
